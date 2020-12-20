@@ -13,6 +13,7 @@ The rest are packages that you probably already have(pandas, math, mysql.connect
 
 
 GENERAL INFORMATIONS:
+All csv files and a folder with the tweets should be in the same directory as the .py files
 
 Download github files and save them all in the same directory. This is your main directory.
 
